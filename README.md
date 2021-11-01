@@ -1,0 +1,2 @@
+# NordVPN-Checker
+check NordVPN accounts. STRICTLY FOR EDUCATIONAL PURPOSES ONLY!
